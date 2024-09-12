@@ -1,0 +1,18 @@
+.header-main {
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: -1px;
+  padding: 10px;
+  z-index: 1;
+  background-color: #171717;
+  height: 10vh;
+}
+.header-main img {
+  width: 20px;
+  height: 20px;
+}
+.header-title {
+  margin-left: 15px;
+  margin-right: auto;
+}
